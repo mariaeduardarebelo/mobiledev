@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Budget Fuel</string>
+    <string name="resultText">Best pick:</string>
+    <string name="descriptionText">Insert the cost of gas and alcohol per litre below:</string>
+    <string name="gas">gas</string>
+    <string name="calculate">calculate</string>
+    <string name="alcohol">alcohol</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Combustível Fácil</string>
+    <string name="resultText" >Melhor escolha:</string>
+    <string name="descriptionText">Insira abaixo o valor da gasolina e do álcool por litro:</string>
+    <string name="gas">Gasolina</string>
+    <string name="alcohol">Álcool</string>
+    <string name="calculate">Calcular</string>
+</resources>
